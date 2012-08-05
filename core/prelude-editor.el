@@ -1,4 +1,4 @@
-;;; prelude-editor.el --- Emacs Prelude: enhanced core editing experience.
+ ;;; prelude-editor.el --- Emacs Prelude: enhanced core editing experience.
 ;;
 ;; Copyright © 2011-2013 Bozhidar Batsov
 ;;
